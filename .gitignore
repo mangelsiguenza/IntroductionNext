@@ -1,0 +1,6 @@
+#Intellij
+.idea
+
+#Node.js
+node_modules/
+.next/
